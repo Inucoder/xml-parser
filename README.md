@@ -1,4 +1,4 @@
-Simple jQuery-based XML parser for client side JavaScript
+jQuery powered XML parser for client side JavaScript
 ==========
 
 As HTML5-based applications become more and more complex, there is a need to extend the JavaScript language with rich features.
