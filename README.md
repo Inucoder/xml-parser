@@ -34,6 +34,7 @@ var $xml = XMLParser.parse(xml);
 Edit some data.
 
 ```javascript
+//just use $xml as query context!
 $('member[name=Oswaldo]', $xml).attr('language', 'C++');
 ```
 
