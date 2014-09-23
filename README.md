@@ -40,7 +40,7 @@ $('member[name=Oswaldo]', $xml).attr('language', 'C++');
 Add elements.
 
 ```javascript
-$xml.append('<member><name>Andree</name><language>Java</language></member>');
+$('team', $xml).append('<member><name>Andree</name><language>Java</language></member>');
 ```
 
 Output to XML string.
